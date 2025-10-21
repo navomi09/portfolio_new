@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import About from '@/components/About /about';
+import About from '@/components/About/about';
 import Header from '@/components/header';
 import NavBar from '@/components/navbar';
 import TechStack from '@/components/Tech_Stack/techStack';
